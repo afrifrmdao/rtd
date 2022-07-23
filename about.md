@@ -2,7 +2,7 @@
 title: A little about me - Read The Docs
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of Software Engineering from Bali, living in Lombok. This blog for documentation about my programming journey.
+excerpt: Hello peeps, I'm student of Software Engineering from Indonesia, living in Jakarta. This blog for documentation about my programming journey.
 comments: false
 ---
 
