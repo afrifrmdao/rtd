@@ -6,11 +6,10 @@ excerpt: Hello peeps, I'm student of Software Engineering from Bali, living in L
 comments: false
 ---
 
-He's a student from Bali, living in Lombok. the blog for documentation about his programming 🎒 journey, he also loves to learning web technology, exploiting, and hacking; but he often forgot, that a reason why him doing the writing.
+Dia pelajar dari Indonesia tinggal di Jakarta. blog untuk dokumentasi tentang perjalanan pemrogramannya , dia juga suka belajar teknologi web, exploit, dan hacking; tapi dia sering lupa, itulah alasan kenapa dia menulis.
 
-If you have a question about him or else, just send a letter to him.
-
-You can [report](https://instagram.com/youez_) if there is an broken link(s) or somethings else.
+Jika anda memiliki pertanyaan tentang dia atau semacamnya, kirimkan saja surat padanya.
+Anda bisa [melaporkan](https://instagram.com/kelinci7i8) jika ada tautan yang rusak atau yang lain.
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bb464f2352ec78f2da7233f73e6eda85839001ae3739716576e77398c2aa0765/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d796f6e337a752673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/bb464f2352ec78f2da7233f73e6eda85839001ae3739716576e77398c2aa0765/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d796f6e337a752673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="yon3zu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yon3zu&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a>
 
