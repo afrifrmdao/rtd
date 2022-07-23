@@ -11,19 +11,19 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Bay's # author name
+  name: Afri # author name
   bio: >- # tell to the world
     Software Engineering Student, Computer Geek, & <a href="https://linuxploit.com" target="_blank" rel="noopener">@LinuXploit</a> Founder.
-  username: youez # general username
-  github: yon3zu # github username
-  twitter: youez_ # twitter username
-  facebook: youez.64bit # facebook username
-  instagram: youez_ # instagram username
-  email: nicedre4m@yahoo.com # email adress
+  username: afri # general username
+  github: africode7 # github username
+  twitter: # # twitter username
+  facebook: # # facebook username
+  instagram: kelinci7i8 # instagram username
+  email: blockchainafri7@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://rtd.urbayz.com" #
+url: "https://rtd-zeta.vercel.app/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
