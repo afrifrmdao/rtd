@@ -2,7 +2,7 @@
 title: Read The Docs # site title
 description: >- # site description
   Dia menulis dalam bahasa Indonesia tentang teknologi web dan pengalaman sebagai jurnal
-  untuk dokumentasi tentang apa yang dia pelajari, lihat dia <a href="https://instagram.com/kelinci7i8" target="_blank" rel="noopener">@instagram</a>.
+  untuk dokumentasi tentang apa yang dia pelajari.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/icon.png # This image used for Open Graph more info https://ogp.me/
