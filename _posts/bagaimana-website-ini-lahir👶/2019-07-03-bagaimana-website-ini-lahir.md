@@ -28,16 +28,12 @@ Hal yang pertama anda harus lakukan adalah mencari template di situs <a href="ht
 <figure>
 <img src="https://g.top4top.io/p_2396cyndt1.png" alt="Cari template">
 <figcaption>1. Cari template</figcaption>
-</figure>
-
-<hr>
+</figure><br><br><br><br>
 
 <figure>
 <img src="https://e.top4top.io/p_239601s8b1.png" alt="Klik Fork">
 <figcaption>2. Klik Fork</figcaption>
 </figure>
-
-<hr>
 
 Anda harus mengklik tombol fork di sebelah kanan atas, ini dilakukan untuk menyimpan source code di repository github anda.
 
