@@ -4,7 +4,7 @@ date: 2019-07-03 11:58:47 +07:00
 modified:
 tags: [tutorial, teknologi]
 description: Membuat website statis dengan bantuan framework Jekyll.
-image: "/apa-itu-shell/shell_evolution.png"
+image: "/bagaimana-website-ini-lahir/jekyll.png"
 ---
 
 
@@ -36,7 +36,7 @@ Kunjungi halaman github pembuat template
 <figcaption>2. Klik Fork</figcaption>
 </figure>
 
-Anda harus mengklik tombol fork di sebelah kanan atas, ini dilakukan untuk menyimpan source code di repository github anda.
+Anda harus menekan tombol fork di sebelah kanan atas, ini dilakukan untuk menyimpan source code di repositori github anda.
 
 Selanjutnya silahkan kunjungi halaman dashboard <a href="https://vercel.com">vercel.com</a> lalu login menggunakan akun github anda sendiri.
 
