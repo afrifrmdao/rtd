@@ -26,13 +26,13 @@ Jadi sebelum kita membuat website, Anda memerlukan beberapa alat seperti
 Hal yang pertama anda harus lakukan adalah mencari template di situs <a href="https://jekyllthemes.org">jekyllthemes.org</a>, jika anda sudah melakukan nya anda harus mengunjungi halaman github pembuat template tersebut.
 
 <figure>
-<img src="https://g.top4top.io/p_2396cyndt1.png" alt="Cari template">
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/bagaimana-website-ini-lahir%F0%9F%91%B6/search-template.png" alt="Cari template">
 <figcaption>1. Cari template</figcaption>
 </figure>
 
 Kunjungi halaman github pembuat template
 <figure>
-<img src="https://e.top4top.io/p_239601s8b1.png" alt="Klik Fork">
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/bagaimana-website-ini-lahir%F0%9F%91%B6/fork-template.png" alt="Klik Fork">
 <figcaption>2. Klik Fork</figcaption>
 </figure>
 
@@ -42,15 +42,15 @@ Selanjutnya silahkan kunjungi halaman dashboard <a href="https://vercel.com">ver
 
 Buat projek baru di sini:
 <figure>
-<img src="https://a.top4top.io/p_2396jq1xw1.png" alt="Projek Baru">
-<figcaption>2. Tekan tombol new project</figcaption>
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/bagaimana-website-ini-lahir%F0%9F%91%B6/new-project.png" alt="Projek Baru">
+<figcaption>3. Tekan tombol new project</figcaption>
 </figure>
 
 Setelah anda menekan tombol new project, <a href="https://vercel.com">vercel.com</a> akan mengarahkan anda ke halaman import repositori git nya
 
 <figure>
-<img src="https://k.top4top.io/p_2396fyn6h1.png" alt="import repositori yang sebelumnya sudah di fork">
-<figcaption>3. import repositori</figcaption>
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/bagaimana-website-ini-lahir%F0%9F%91%B6/import-git.png" alt="import repositori yang sebelumnya sudah di fork">
+<figcaption>4. import repositori</figcaption>
 </figure>
 
 Anda harus mencari repositori anda yang sudah di fork ke github anda sebelumnya, lalu tekan tombol import.
@@ -58,8 +58,8 @@ Anda harus mencari repositori anda yang sudah di fork ke github anda sebelumnya,
 Anda akan di arahkan ke halaman selanjutnya yaitu halaman konfigurasi projek
 
 <figure>
-<img src="https://b.top4top.io/p_23969159k1.png" alt="deploy">
-<figcaption>3. Deploy projek </figcaption>
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/bagaimana-website-ini-lahir%F0%9F%91%B6/deploy.png" alt="deploy">
+<figcaption>5. Deploy projek </figcaption>
 </figure>
 
 
@@ -74,8 +74,8 @@ Beberapa tema akan menyebabkan error saat <a href="https://vercel.com">vercel.co
 Menyetting DNS Manager, ini dilakukan agar situs anda tidak hanya bisa di buka di halaman github anda sendiri ataupun layanan vercel, Saat ini saya memakai layanan <a href="https://jagoanhosting.com">jagoanhosting.com</a> untuk melakukan nya
 
 <figure>
-<img src="https://c.top4top.io/p_2396p1qzf1.png" alt="DNS Manager">
-<figcaption>3. Setting DNS </figcaption>
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/bagaimana-website-ini-lahir%F0%9F%91%B6/new-dns.png" alt="DNS Manager">
+<figcaption>6. Setting DNS </figcaption>
 </figure>
 
 Silahkan anda lakukan perubahan seperti ini
