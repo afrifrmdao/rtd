@@ -30,6 +30,7 @@ Hal yang pertama anda harus lakukan adalah mencari template di situs <a href="ht
 <figcaption>1. Cari template</figcaption>
 </figure><br><br><br><br>
 
+Kunjungi halaman github pembuat template
 <figure>
 <img src="https://e.top4top.io/p_239601s8b1.png" alt="Klik Fork">
 <figcaption>2. Klik Fork</figcaption>
