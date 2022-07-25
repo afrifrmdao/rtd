@@ -1,6 +1,6 @@
 ---
 title: Celah no redirect dan cara menutup nya
-date: 2022-25-06 11:58:47 +07:00
+date: 2022-06-25 11:58:47 +07:00
 modified:
 tags: [exploit, hacking, tutorial, programming]
 description: Membuat website statis dengan bantuan framework Jekyll.
@@ -25,14 +25,14 @@ $ curl -v https://site.com/[dashboard]
 karena halaman dashboard admin saat ini di contoh kan pada alamat <a href="#">https://site.com/admin/index.php</a> maka saya akan mengetik kan perintah cURL seperti ini
 
 <figure>
-<img src="https://f.top4top.io/p_2397muc6r1.png" alt="curl dashboard">
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/celah-no-redirect-dan-cara-menutup-nya/terminalcurl.png" alt="curl dashboard">
 <figcaption>1. curl -v https://site.com/dashboard</figcaption>
 </figure>
 
 Jika anda sudah mengetik kan perintah cURL seperti di atas dan anda menemukan source code yang mengarah pada ciri ciri halaman dashboard admin, berarti **website tersebut memiliki celah No Redirect**.
 
 <figure>
-<img src="https://l.top4top.io/p_2397vzoyu1.png" alt="log out source code">
+<img src="[https://l.top4top.io/p_2397vzoyu1.png](https://raw.githubusercontent.com/africode7/rtd/master/_posts/celah-no-redirect-dan-cara-menutup-nya/curl-logout.png)" alt="log out source code">
 <figcaption>2. setelah mengetik kan perinah cURL</figcaption>
 </figure>
 
