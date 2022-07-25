@@ -3,7 +3,7 @@ title: Celah no redirect dan cara menutup nya
 date: 2022-05-03 11:58:47 +07:00
 modified:
 tags: [exploit, hacking, tutorial, programming]
-description: Membuat website statis dengan bantuan framework Jekyll.
+description: Celah No Redirect Dan Cara Menutupnya.
 image: "/celah-no-redirect-dan-cara-menutup-nya/thumb.png"
 ---
 
