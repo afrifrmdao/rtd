@@ -1,6 +1,6 @@
 ---
 title: Celah no redirect dan cara menutup nya
-date: 2022-08-13 11:58:47 +07:00
+date: 2022-05-03 11:58:47 +07:00
 modified:
 tags: [exploit, hacking, tutorial, programming]
 description: Membuat website statis dengan bantuan framework Jekyll.
