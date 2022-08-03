@@ -22,14 +22,14 @@ root@afri~# cd Downloads
  Jika tidak maka anda tidak perlu mengganti lokasi directory pada terminal anda. Selanjutnya anda harus mengganti permissions file installer xampp dengan menggunakan perintah:
 
 ```bash
-root@afri:~/Desktop# chmod 755 xampp-linux-*-installer.run
+root@afri:~/Downloads# chmod 755 xampp-linux-*-installer.run
 ```
 
 (**GANTI NAMA FILE INSTALLER SESUAI VERSI YANG ANDA DOWNLOAD**)
 
 Jalankan Installer XAMPP dengan perintah
 ```bash
-root@afri:~/Desktop# sudo ./xampp-linux-*-installer.run
+root@afri:~/Downloads# sudo ./xampp-linux-*-installer.run
 ```
 
 XAMPP sekarang sudah terinstal di **/opt/lampp** directory.
