@@ -1,10 +1,10 @@
 ---
-title: XAMPP Di Ubuntu
+title: Menjalankan XAMPP Di Ubuntu
 date: 2022-06-04 12:58:47 +07:00
 modified:
 tags: [tutorial, technology]
 description: Penjelasan Mengenai Seputar XAMPP.
-image: "/xampp-di-ubuntu/xampp.png"
+image: "/menjalankan-xampp-di-ubuntu/xampp.png"
 ---
 
 XAMPP adalah perangkat lunak bebas yang mendukung banyak sistem operasi (windows, macOS dan linux), merupakan kompilasi dari beberapa program. Fungsinya adalah sebagai server yang berdiri sendiri, yang terdiri atas program Apache HTTP Server, MYSQL Dataase, dan penerjemah bahasa dengan bahasa pemrograman PHP dan Perl (localhost).
