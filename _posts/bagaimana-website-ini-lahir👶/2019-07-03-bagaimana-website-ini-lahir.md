@@ -8,7 +8,7 @@ image: "/bagaimana-website-ini-lahir/jekyll.png"
 ---
 
 
-Website ini dibuat menggunakan Jekyll yang merupakan salah satu generator situs open source, dan menggunakan tema sederhana yang di ambil dari situs <a href="https://jekyllthemes.org/">jekyllthemes.org</a>.
+Website ini dibuat menggunakan Jekyll yang merupakan salah satu generator situs open source, dan menggunakan tema sederhana yang di ambil dari situs <a href="http://jekyllthemes.org/">jekyllthemes.org</a>.
 
 <hr>
 
@@ -19,7 +19,7 @@ Semua layanan gratis, kode sumber situs di tempatkan di repositori github saya d
 #### Mari Kita Lakukan
 Jadi sebelum kita membuat website, Anda memerlukan beberapa alat seperti
 
-- [JekyllThemes](https://jekyllthemes.org) (template)
+- [JekyllThemes](http://jekyllthemes.org) (template)
 - [Github](https://github.com/) account
 - [Vercel](https://vercel.com/) (login dengan akun github)
 
