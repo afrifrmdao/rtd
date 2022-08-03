@@ -19,7 +19,7 @@ Anda dapat mengganti lokasi directory pada terminal anda, jika file installer an
 root@afri~# cd Downloads
 ```
 
- Jika tidak maka anda tidak perlu mengganti lokasi directory pada terminal anda. Selanjutnya anda harus mengganti permissions file installer xampp dengan menggunakan perintah:
+ Jika tidak maka anda tidak perlu mengganti lokasi directory pada terminal anda. Selanjutnya anda harus mengganti permissions file installer xampp dengan menuliskan perintah:
 
 ```bash
 root@afri:~/Downloads# chmod 755 xampp-linux-*-installer.run
