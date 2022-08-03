@@ -23,7 +23,7 @@ Jadi sebelum kita membuat website, Anda memerlukan beberapa alat seperti
 - [Github](https://github.com/) account
 - [Vercel](https://vercel.com/) (login dengan akun github)
 
-Hal yang pertama anda harus lakukan adalah mencari template di situs <a href="https://jekyllthemes.org">jekyllthemes.org</a>, jika anda sudah melakukan nya anda harus mengunjungi halaman github pembuat template tersebut.
+Hal yang pertama anda harus lakukan adalah mencari template di situs <a href="http://jekyllthemes.org">jekyllthemes.org</a>, jika anda sudah melakukan nya anda harus mengunjungi halaman github pembuat template tersebut.
 
 <figure>
 <img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/bagaimana-website-ini-lahir%F0%9F%91%B6/search-template.png" alt="Cari template">
