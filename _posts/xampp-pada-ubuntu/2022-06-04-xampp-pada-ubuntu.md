@@ -4,14 +4,14 @@ date: 2022-06-04 12:58:47 +07:00
 modified:
 tags: [tutorial, technology]
 description: Penjelasan Mengenai Seputar XAMPP.
-image: "/xampp-pada-ubuntu/thumb.png"
+image: "/xampp-pada-ubuntu/xampp.png"
 ---
 
 XAMPP adalah perangkat lunak bebas yang mendukung banyak sistem operasi (windows, macOS dan linux), merupakan kompilasi dari beberapa program. Fungsinya adalah sebagai server yang berdiri sendiri, yang terdiri atas program Apache HTTP Server, MYSQL Dataase, dan penerjemah bahasa dengan bahasa pemrograman PHP dan Perl (localhost).
 
 #### Instalasi XAMPP Pada Linux (Ubuntu)
 
-Pertama, anda harus menginstal file installer **XAMPP** di <a href="https://www.apachefriends.org/download.html"> apachefriends.org</a>, jika sudah buka terminal linux
+Pertama, anda harus menginstal file installer **XAMPP** di <a href="https://www.apachefriends.org/download.html">apachefriends.org</a>, jika sudah buka terminal linux
 
 Anda dapat mengganti lokasi directory pada terminal anda, jika file installer anda berada di dalam folder **Downloads**
 
