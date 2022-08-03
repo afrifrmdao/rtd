@@ -1,10 +1,10 @@
 ---
-title: Memakai VPN Pada Ubuntu
+title: Memakai VPN Di Ubuntu
 date: 2022-06-04 11:58:47 +07:00
 modified:
 tags: [tutorial, hacking]
-description: Bagaimana Memakai Virtual Private Network pada Ubuntu.
-image: "/memakai-vpn-pada-ubuntu/vpn.png"
+description: Bagaimana Memakai Virtual Private Network di Ubuntu.
+image: "/memakai-vpn-di-ubuntu/vpn.png"
 ---
 
 Virtual Private Network atau VPN adalah layanan yang memungkinkan pengguna untuk mengakses situs secara pribadi melalui server jaringan lain. Dengan kata lain, VPN menghubungkan komputer atau telepon genggam ke perangkat lain di tempat yang berbeda sehingga kamu bisa mengakses internet menggunakan koneksinya.
@@ -43,3 +43,6 @@ root@afri~# autovpn JP
 ```
 
 Cek IP anda di <a href="https://www.vpngate.net/en/">VpnGate</a> dan untuk melihat informasi lengkap lain tentang VPN ini.
+
+Terakhir untuk tulisan kali ini, terimakasih sudah membaca, _penulis menerima kritik dan saran._
+
