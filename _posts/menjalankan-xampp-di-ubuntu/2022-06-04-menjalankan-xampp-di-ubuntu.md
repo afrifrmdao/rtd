@@ -7,7 +7,7 @@ description: Penjelasan Mengenai Seputar XAMPP.
 image: "/menjalankan-xampp-di-ubuntu/xampp.png"
 ---
 
-XAMPP adalah perangkat lunak bebas yang mendukung banyak sistem operasi (windows, macOS dan linux), merupakan kompilasi dari beberapa program. Fungsinya adalah sebagai server yang berdiri sendiri, yang terdiri atas program Apache HTTP Server, MYSQL Dataase, dan penerjemah bahasa dengan bahasa pemrograman PHP dan Perl (localhost).
+XAMPP adalah perangkat lunak bebas yang mendukung banyak sistem operasi (windows, macOS dan linux), merupakan kompilasi dari beberapa program. Fungsinya adalah sebagai server yang berdiri sendiri, yang terdiri atas program Apache HTTP Server, MYSQL Database, dan penerjemah bahasa dengan bahasa pemrograman PHP dan Perl (localhost).
 
 #### Instalasi XAMPP Di Linux (Ubuntu)
 
