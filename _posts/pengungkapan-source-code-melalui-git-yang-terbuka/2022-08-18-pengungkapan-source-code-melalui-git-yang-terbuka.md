@@ -18,24 +18,24 @@ Git sebagian besar digunakan saat Anda membuat situs web di komputer dan menggun
 #### Langkah Untuk Melakukan Pengungkapan Source Code
 Pertama, anda harus menginstall **git dumper**, git dumper adalah sebuah alat yang mampu mengambil source code di dalam folder git dan menyalin nya ke komputer anda.
 
-1. Install Git Dumper
+1) Install Git Dumper
 
 ```bash
 $ git clone https://github.com/arthaud/git-dumper
 ```
 
-2. Tentukan Website
+2) Tentukan Website
 
 Disini saya akan menggunakan website <a href="https://gismenara.lomboktengahkab.go.id/">https://gismenara.lomboktengahkab.go.id</a> silahkan anda cari folder git di website nya, seperti <a href="https://gismenara.lomboktengahkab.go.id/.git/">https://gismenara.lomboktengahkab.go.id/.git/</a> beberapa website akan menampilkan 403 Forbidden dan ada yang akan terbuka, jika anda menemukan 403 Forbidden jangan khawatir karena sebenernya folder .git nya masih ada.
 
-3. Install Module
+3) Install Module
 
 ```bash
 $ pip install -r requirements.txt
 ```
 Module ini di gunakan untuk pelengkap atau syarat untuk menjalankan alatnya.
 
-4. Jalankan Alatnya
+4) Jalankan Alatnya
 
 ```bash
 $ python3 git_dumper.py site folder_output
