@@ -46,19 +46,19 @@ $ python3 git_dumper.py https://gismenara.lomboktengahkab.go.id/.git leaked_sour
 ```
 
 <figure>
-<img src="https://github.com/africode7/rtd/blob/master/_posts/pengungkapan-source-code-melalui-git-yang-terbuka/1.png" alt="1. Jalankan Alatnya">
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/pengungkapan-source-code-melalui-git-yang-terbuka/1.png" alt="1. Jalankan Alatnya">
 <figcaption>1. Jalankan Alatnya</figcaption>
 </figure>
 
 <figure>
-<img src="https://github.com/africode7/rtd/blob/master/_posts/pengungkapan-source-code-melalui-git-yang-terbuka/2.png" alt="Tunggu Hingga Selesai">
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/pengungkapan-source-code-melalui-git-yang-terbuka/2.png" alt="Tunggu Hingga Selesai">
 <figcaption>2. Tunggu Hingga Selesai</figcaption>
 </figure>
 
 Setelah itu, silahkan anda cek hasil nya di dalam folder yang anda sudah buat sebelumnya, sebagai contoh sebelumnya saya memberi nama folder **leaked_source**
 
 <figure>
-<img src="https://github.com/africode7/rtd/blob/master/_posts/pengungkapan-source-code-melalui-git-yang-terbuka/3.png" alt="Cek Hasilnya di dalam folder">
+<img src="https://raw.githubusercontent.com/africode7/rtd/master/_posts/pengungkapan-source-code-melalui-git-yang-terbuka/3.png" alt="Cek Hasilnya di dalam folder">
 <figcaption>3. Cek Hasilnya Di Dalam Folder</figcaption>
 </figure>
 
