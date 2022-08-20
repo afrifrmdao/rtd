@@ -3,7 +3,7 @@ title: Mengatasi Mouse Yang Tidak Bekerja Pada Linux
 date: 2022-08-20 1:58:47 +07:00
 modified:
 tags: [tutorial, mengatasi]
-description: Pengungkapan Source Code Melalui Git Yang Terbuka
+description: Mengatasi Mouse Yang Tidak Bekerja Pada Linux
 image: "/mengatasi-mouse-yang-tidak-bekerja-pada-linux/thumb.png"
 ---
 
