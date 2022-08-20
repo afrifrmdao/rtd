@@ -9,7 +9,7 @@ image: "/mengatasi-mouse-yang-tidak-bekerja-pada-linux/thumb.jpg"
 
 Pada tulisan kali ini saya akan memberitahukan cara mengatasi mouse yang tidak bekerja pada linux, tulisan ini saya buat di karenakan saya sering mengalami hal ini, tidak tahu dengan anda.
 
-#### Langkah untuk menyelesaikan ini
+#### Langkah untuk menyelesaikan
 Anda hanya perlu menekan **CTRL + ALT + F1** pada keyboard komputer anda secara bersamaan, layar anda akan menampilkan beberapa tulisan seperti ini, jika anda di suruh untuk memasukan username atau password anda, itu tidak masalah jika anda tidak memasukannya.
 
 
@@ -19,6 +19,6 @@ Anda hanya perlu menekan **CTRL + ALT + F1** pada keyboard komputer anda secara 
 </figure>
 
 
-Untuk kembali ke halaman desktop seperti pemula, anda cukup menekan **CTRL + ALT + F7** secara bersamaan pada keyboard anda, ini sama hal nya dengan memulihkan sistem operasi anda, mungkin karena ini cukup bekerja dibandingkan harus memulai ulang sistem operasi linux anda.
+Untuk kembali ke halaman desktop seperti sebelum nya, anda cukup menekan **CTRL + ALT + F7** secara bersamaan pada keyboard anda, ini sama hal nya dengan memulihkan sistem operasi anda, mungkin karena ini cukup bekerja dibandingkan harus memulai ulang sistem operasi linux anda.
 
 Terakhir untuk tulisan ini, _penulis menerima kritik dan saran._
