@@ -4,7 +4,7 @@ date: 2022-08-18 11:58:47 +07:00
 modified:
 tags: [exploit, hacking, tutorial, leaked]
 description: Pengungkapan Source Code Melalui Git Yang Terbuka
-image: "/pengungkapan-source-code-melalui-git-yang-terbuka/thumb.jpg"
+image: "/pengungkapan-source-code-melalui-git-yang-terbuka/git.png"
 ---
 
 Tulisan ini saya buat sebagai bentuk dokumentasi atau write up untuk diri saya sendiri, pengungkapan source code melalui git yang terbuka.
