@@ -4,7 +4,7 @@ date: 2022-08-20 1:58:47 +07:00
 modified:
 tags: [tutorial, mengatasi]
 description: Mengatasi Mouse Yang Tidak Bekerja Pada Linux
-image: "/mengatasi-mouse-yang-tidak-bekerja-pada-linux/thumb.png"
+image: "/mengatasi-mouse-yang-tidak-bekerja-pada-linux/thumb.jpg"
 ---
 
 Pada tulisan kali ini saya akan memberitahukan cara mengatasi mouse yang tidak bekerja pada linux, tulisan ini saya buat di karenakan saya sering mengalami hal ini, tidak tahu dengan anda.
